@@ -6,9 +6,9 @@ sudo install gdrive /usr/local/bin/gdrive
 
 gdrive list
 
-give permision
-
 click link
+
+give permision
 
 copy verification code
 
